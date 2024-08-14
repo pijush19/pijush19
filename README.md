@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=2500&lines=Hi+There!+👋;+I'm+Pijush+Sasmal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=2500&lines=Hi+There!+👋🏽;+I'm+Pijush+Sasmal!;" />
 </h1>
 <h2>About Me</h2>
 I'm Pijush, a passionate engineer with a love for web development and also curious about how machines work. 
