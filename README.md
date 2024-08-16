@@ -1,6 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=2500&lines=Hi+There!+👋🏽;+I'm+Pijush+Sasmal!;" />
 </h1>
+
+<div style="text-align: center;"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></div
+<br>
+
 <h2>About Me</h2>
 I'm Pijush, a passionate engineer with a love for web development and also curious about how machines work. 
 The design of the Bose website genuinely impressed me, and I have since developed an interest in creating a similar website and since then, I've been continuously exploring and learning new things.
@@ -34,7 +38,8 @@ The design of the Bose website genuinely impressed me, and I have since develope
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijush19&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<hr></hr>
+<img src = "https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" height = 100px>
 
 <br/><br/>
 </div>
